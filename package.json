@@ -360,10 +360,10 @@
     "yocto-queue": "^0.1.0"
   },
   "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.6",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.6",
     "@openzeppelin/hardhat-upgrades": "^3.2.0",
-    "@nomicfoundation/hardhat-ethers": "^3.0.6"
+    "hardhat": "^2.22.6"
   },
   "keywords": [],
   "author": "",
